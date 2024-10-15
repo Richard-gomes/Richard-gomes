@@ -2,7 +2,6 @@
 Atualmente faço projetos áreas de desenvolvimento web, análise de dados e simulações
 <div>
   <img heigt="180cm" src= "https://github-readme-stats.vercel.app/api?username=Richard-gomes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura"/>
-  <img heigt="180cm" src= "https://github-readme-stats.vercel.app/api/pin/?username=Richard-gomes&repo=github-readme-stats&cache_seconds=86400&theme=aura"/>
 </div>
 
   <div style="display: inline_block"><br>
