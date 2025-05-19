@@ -1,4 +1,4 @@
-##Olá, meu nome é Iago Richard, sou estudante de Ciência da computação e Física.
+ Olá, meu nome é Iago Richard, sou estudante de Ciência da computação e Física.
 Atualmente faço projetos áreas de desenvolvimento web, análise de dados e simulações
 <div>
   <img heigt="180cm" src= "https://github-readme-stats.vercel.app/api?username=Richard-gomes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura"/>
